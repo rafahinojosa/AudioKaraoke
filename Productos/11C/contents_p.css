@@ -1,0 +1,759 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc01               { /* Common */
+	font            : 8pt 'MS Sans Serif';
+	color           : #000000;
+	padding         :   1.50pt;
+	}
+.cc02               { /* Common */
+	font            : 9pt 'Arial Rounded MT Bold', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
+.cc03               { /* Common */
+	border          :   0.00pt solid #ffffff;
+	}
+.cc04               { /* Common */
+	border          :   0.00pt solid #000000;
+	}
+.cc05               { /* Common */
+	clip            : rect(0.00pt,15.00pt,15.00pt,0.00pt);
+	}
+.cc06               { /* Common */
+	border          :   0.00pt solid #808080;
+	}
+.cc07               { /* Common */
+	font            : 9pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc08               { /* Common */
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc09               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc10               { /* Common */
+	border          :   0.00pt solid #808080;
+	clip            : rect(0.00pt,569.25pt,0.75pt,0.00pt);
+	}
+.cc11               { /* Common */
+	border          :   0.00pt solid #f0f0f0;
+	}
+.cc12               { /* Common */
+	font            : 14pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc13               { /* Common */
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : right;
+	}
+.cc14               { /* Common */
+	border          :   0.00pt solid #808080;
+	clip            : rect(0.00pt,309.00pt,0.75pt,0.00pt);
+	}
+.cc15               { /* Common */
+	font            : 8pt 'MS Sans Serif';
+	color           : #000000;
+	}
+.cc16               { /* Common */
+	border          :   0.00pt solid #808080;
+	clip            : rect(0.00pt,206.25pt,0.75pt,0.00pt);
+	}
+.cc17               { /* Common */
+	border          :   0.00pt solid #808080;
+	clip            : rect(0.00pt,207.00pt,0.75pt,0.00pt);
+	}
+.cc18               { /* Common */
+	clip            : rect(0.00pt,9.00pt,9.00pt,0.00pt);
+	}
+.cc19               { /* Common */
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc20               { /* Common */
+	border          :   0.00pt solid #000000;
+	clip            : rect(0.00pt,557.25pt,15.00pt,0.00pt);
+	}
+.cc21               { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+input#e74           { /* Text text_box  */
+	position        : absolute;
+	left            : 468.00pt;
+	top             :   1.50pt;
+	width           : 120.75pt;
+	}
+div#e85             { /* Contáctenos: +52 (818) 3... */
+	position        : absolute;
+	left            : 440.25pt;
+	top             :   4.50pt;
+	width           : 153.00pt;
+	height          :  12.75pt;
+	}
+div#e82             { /* Entrar */
+	text-align      : left;
+	position        : absolute;
+	left            :   6.00pt;
+	top             :   5.25pt;
+	width           :  30.75pt;
+	height          :  11.25pt;
+	}
+div#e80             { /* Mi Cuenta */
+	text-align      : left;
+	position        : absolute;
+	left            :  35.25pt;
+	top             :   5.25pt;
+	width           :  51.00pt;
+	height          :  13.50pt;
+	}
+div#e79             { /* Ver Carrito */
+	text-align      : left;
+	position        : absolute;
+	left            :  80.25pt;
+	top             :   5.25pt;
+	width           :  45.75pt;
+	height          :  12.75pt;
+	}
+div#e78             { /* Soporte */
+	text-align      : left;
+	position        : absolute;
+	left            : 131.25pt;
+	top             :   5.25pt;
+	width           :  45.75pt;
+	height          :  12.75pt;
+	}
+div#e77             { /* Contáctenos */
+	text-align      : left;
+	position        : absolute;
+	left            : 548.25pt;
+	top             :   5.25pt;
+	width           :  57.75pt;
+	height          :  12.75pt;
+	}
+div#e76             { /* Suscríbase */
+	text-align      : left;
+	position        : absolute;
+	left            : 249.75pt;
+	top             :   5.25pt;
+	width           :  45.75pt;
+	height          :  12.75pt;
+	}
+div#e75             { /* Buscar */
+	text-align      : right;
+	position        : absolute;
+	left            : 426.00pt;
+	top             :   5.25pt;
+	width           :  36.75pt;
+	height          :  13.50pt;
+	}
+span#e86            { /* images/11c001039.gif */
+	background      : transparent url(images/11c001039.gif) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  18.75pt;
+	width           : 600.00pt;
+	height          :  79.50pt;
+	}
+span#e81            { /* images/11c001037.gif */
+	background      : transparent url(images/11c001037.gif) no-repeat top left;
+	position        : absolute;
+	left            :   6.75pt;
+	top             :  30.00pt;
+	width           :  76.50pt;
+	height          :  63.75pt;
+	}
+span#e73            { /* images/11c001036.gif */
+	background      : transparent url(images/11c001036.gif) no-repeat top left;
+	position        : absolute;
+	left            : 131.25pt;
+	top             :  58.50pt;
+	width           : 454.50pt;
+	height          :  27.00pt;
+	}
+span#e68            { /* images/11c001034.gif */
+	background      : transparent url(images/11c001034.gif) no-repeat top left;
+	position        : absolute;
+	left            : 515.25pt;
+	top             :  64.50pt;
+	width           :  15.00pt;
+	height          :  15.00pt;
+	}
+span#e69            { /* images/11c001035.gif */
+	background      : transparent url(images/11c001035.gif) no-repeat top left;
+	position        : absolute;
+	left            : 541.50pt;
+	top             :  64.50pt;
+	width           :  15.00pt;
+	height          :  15.00pt;
+	}
+div#e70             { /* Inicio */
+	color           : #000000;
+	position        : absolute;
+	left            : 132.00pt;
+	top             :  66.00pt;
+	width           :  53.25pt;
+	height          :  13.50pt;
+	}
+div#e72             { /* Productos */
+	color           : #000000;
+	position        : absolute;
+	left            : 184.50pt;
+	top             :  66.00pt;
+	width           :  53.25pt;
+	height          :  13.50pt;
+	}
+div#e71             { /* Servicios */
+	color           : #000000;
+	position        : absolute;
+	left            : 242.25pt;
+	top             :  66.00pt;
+	width           :  53.25pt;
+	height          :  13.50pt;
+	}
+div#e67             { /* Síganos */
+	text-align      : right;
+	position        : absolute;
+	left            : 446.25pt;
+	top             :  67.50pt;
+	width           :  54.00pt;
+	height          :  12.75pt;
+	}
+span#e66            { /* images/11c001033.gif */
+	background      : transparent url(images/11c001033.gif) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  96.75pt;
+	width           : 600.00pt;
+	height          :  24.00pt;
+	}
+h4#e87              { /* Portable Karaoke Studio ... */
+	text-align      : left;
+	position        : absolute;
+	left            : 277.50pt;
+	top             : 123.00pt;
+	width           : 239.25pt;
+	height          :  47.25pt;
+	}
+span#e59            { /* images/11c001027.gif */
+	background      : transparent url(images/11c001027.gif) no-repeat top left;
+	position        : absolute;
+	left            : 264.00pt;
+	top             : 126.00pt;
+	width           :   0.75pt;
+	height          : 375.75pt;
+	}
+span#e60            { /* images/11c001028.gif */
+	background      : transparent url(images/11c001028.gif) no-repeat top left;
+	position        : absolute;
+	left            :  44.25pt;
+	top             : 135.75pt;
+	width           : 183.75pt;
+	height          : 279.75pt;
+	}
+div#e58             { /* El nuevo Micrófono Hi-Mi... */
+	position        : absolute;
+	left            : 279.75pt;
+	top             : 176.25pt;
+	width           : 297.75pt;
+	height          : 238.50pt;
+	}
+img#e54             { /* images/11c001013.gif */
+	position        : absolute;
+	left            : 223.50pt;
+	top             : 371.25pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+div#e61             { /* Galería de imagenes */
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 427.50pt;
+	width           :  93.00pt;
+	height          :  12.75pt;
+	}
+span#e49            { /* images/11c001025.gif */
+	background      : transparent url(images/11c001025.gif) no-repeat top left;
+	position        : absolute;
+	left            : 276.00pt;
+	top             : 429.75pt;
+	width           : 312.00pt;
+	height          :  77.25pt;
+	}
+div#e47             { /* Información para ordenar */
+	position        : absolute;
+	left            : 285.00pt;
+	top             : 438.00pt;
+	width           : 114.00pt;
+	height          :  14.25pt;
+	}
+span#e65            { /* images/11c001032.gif */
+	background      : transparent url(images/11c001032.gif) no-repeat top left;
+	position        : absolute;
+	left            :  23.25pt;
+	top             : 441.75pt;
+	width           :  52.50pt;
+	height          :  51.75pt;
+	}
+span#e64            { /* images/11c001031.gif */
+	background      : transparent url(images/11c001031.gif) no-repeat top left;
+	position        : absolute;
+	left            :  81.00pt;
+	top             : 441.75pt;
+	width           :  52.50pt;
+	height          :  51.75pt;
+	}
+span#e63            { /* images/11c001030.gif */
+	background      : transparent url(images/11c001030.gif) no-repeat top left;
+	position        : absolute;
+	left            : 138.00pt;
+	top             : 441.75pt;
+	width           :  52.50pt;
+	height          :  51.75pt;
+	}
+span#e62            { /* images/11c001029.gif */
+	background      : transparent url(images/11c001029.gif) no-repeat top left;
+	position        : absolute;
+	left            : 195.75pt;
+	top             : 441.75pt;
+	width           :  52.50pt;
+	height          :  51.75pt;
+	}
+span#e34            { /* images/11c001019.gif */
+	background      : transparent url(images/11c001019.gif) no-repeat top left;
+	position        : absolute;
+	left            : 156.75pt;
+	top             : 442.50pt;
+	width           :  18.75pt;
+	height          :  51.00pt;
+	}
+span#e19            { /* images/11c001015.gif */
+	background      : transparent url(images/11c001015.gif) no-repeat top left;
+	position        : absolute;
+	left            : 208.50pt;
+	top             : 444.00pt;
+	width           :  26.25pt;
+	height          :  48.75pt;
+	}
+span#e21            { /* images/11c_box_front_tum... */
+	background      : transparent url(images/11c_box_front_tumbnail.gif) no-repeat top left;
+	position        : absolute;
+	left            :  35.25pt;
+	top             : 444.75pt;
+	width           :  31.50pt;
+	height          :  46.50pt;
+	}
+span#e20            { /* images/11c001016.gif */
+	background      : transparent url(images/11c001016.gif) no-repeat top left;
+	position        : absolute;
+	left            :  81.75pt;
+	top             : 453.00pt;
+	width           :  49.50pt;
+	height          :  30.75pt;
+	}
+div#e48             { /* No. Artículo:     11C\ \... */
+	position        : absolute;
+	left            : 285.00pt;
+	top             : 456.75pt;
+	width           : 132.00pt;
+	height          :  33.75pt;
+	}
+img#e16             { /* images/11c001013.gif */
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 495.75pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+img#e57             { /* images/11c001013.gif */
+	position        : absolute;
+	left            : 102.75pt;
+	top             : 495.75pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+img#e56             { /* images/11c001013.gif */
+	position        : absolute;
+	left            : 157.50pt;
+	top             : 495.75pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+img#e55             { /* images/11c001013.gif */
+	position        : absolute;
+	left            : 216.00pt;
+	top             : 495.75pt;
+	width           :  12.75pt;
+	height          :  12.75pt;
+	}
+span#e50            { /* images/11c001026.gif */
+	background      : transparent url(images/11c001026.gif) no-repeat top left;
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 517.50pt;
+	width           : 569.25pt;
+	height          :   0.75pt;
+	}
+span#e38            { /* images/11c001020.gif */
+	background      : transparent url(images/11c001020.gif) no-repeat top left;
+	position        : absolute;
+	left            : 524.25pt;
+	top             : 519.75pt;
+	width           :  63.75pt;
+	height          :  81.75pt;
+	}
+span#e35            { /* images/mic_lineart.gif */
+	background      : transparent url(images/mic_lineart.gif) no-repeat top left;
+	position        : absolute;
+	left            : 434.25pt;
+	top             : 522.00pt;
+	width           :  63.75pt;
+	height          :  84.75pt;
+	}
+div#e51             { /* Especificaciones */
+	position        : absolute;
+	left            :  27.75pt;
+	top             : 524.25pt;
+	width           : 121.50pt;
+	height          :  19.50pt;
+	}
+div#e44             { /* Qué Incluye la Caja */
+	position        : absolute;
+	left            : 279.75pt;
+	top             : 524.25pt;
+	width           : 135.00pt;
+	height          :  19.50pt;
+	}
+span#e42            { /* images/11c001022.gif */
+	background      : transparent url(images/11c001022.gif) no-repeat top left;
+	position        : absolute;
+	left            : 263.25pt;
+	top             : 525.75pt;
+	width           :   0.75pt;
+	height          : 210.75pt;
+	}
+div#e53             { /* Marca:\ \Modelo:\ \Descr... */
+	position        : absolute;
+	left            :  18.75pt;
+	top             : 549.75pt;
+	width           : 104.25pt;
+	height          : 180.75pt;
+	}
+div#e52             { /* Hi-Mikser \ \11C\ \Micró... */
+	position        : absolute;
+	left            : 132.00pt;
+	top             : 549.75pt;
+	width           : 116.25pt;
+	height          : 191.25pt;
+	}
+div#e40             { /* <DIV>-&nbsp; Micrófono K... */
+	position        : absolute;
+	left            : 270.00pt;
+	top             : 549.75pt;
+	width           : 153.75pt;
+	height          : 102.75pt;
+	}
+span#e39            { /* images/11c001021.gif */
+	background      : transparent url(images/11c001021.gif) no-repeat top left;
+	position        : absolute;
+	left            : 449.25pt;
+	top             : 588.00pt;
+	width           : 104.25pt;
+	height          :  71.25pt;
+	}
+span#e37            { /* images/card_addapter_art... */
+	background      : transparent url(images/card_addapter_artwork.gif) no-repeat top left;
+	position        : absolute;
+	left            : 427.50pt;
+	top             : 606.75pt;
+	width           :  16.50pt;
+	height          :  42.00pt;
+	}
+span#e36            { /* images/ca_addapter_linea... */
+	background      : transparent url(images/ca_addapter_lineart.gif) no-repeat top left;
+	position        : absolute;
+	left            : 555.75pt;
+	top             : 608.25pt;
+	width           :  22.50pt;
+	height          :  41.25pt;
+	}
+span#e43            { /* images/11c001023.gif */
+	background      : transparent url(images/11c001023.gif) no-repeat top left;
+	position        : absolute;
+	left            : 273.00pt;
+	top             : 659.25pt;
+	width           : 309.00pt;
+	height          :   0.75pt;
+	}
+div#e11             { /* PC */
+	position        : absolute;
+	left            : 537.00pt;
+	top             : 665.25pt;
+	width           :  18.00pt;
+	height          :  10.50pt;
+	}
+div#e10             { /* iPad */
+	position        : absolute;
+	left            : 552.00pt;
+	top             : 665.25pt;
+	width           :  18.00pt;
+	height          :  11.25pt;
+	}
+div#e9              { /* iPhone */
+	position        : absolute;
+	left            : 571.50pt;
+	top             : 665.25pt;
+	width           :  25.50pt;
+	height          :  10.50pt;
+	}
+span#e8             { /* images/11c001008.gif */
+	background      : transparent url(images/11c001008.gif) no-repeat top left;
+	position        : absolute;
+	left            : 534.00pt;
+	top             : 666.00pt;
+	width           :   0.75pt;
+	height          :  77.25pt;
+	}
+span#e7             { /* images/11c001007.gif */
+	background      : transparent url(images/11c001007.gif) no-repeat top left;
+	position        : absolute;
+	left            : 551.25pt;
+	top             : 666.00pt;
+	width           :   0.75pt;
+	height          :  77.25pt;
+	}
+span#e6             { /* images/11c001006.gif */
+	background      : transparent url(images/11c001006.gif) no-repeat top left;
+	position        : absolute;
+	left            : 570.75pt;
+	top             : 666.00pt;
+	width           :   0.75pt;
+	height          :  77.25pt;
+	}
+div#e41             { /* Recursos: */
+	position        : absolute;
+	left            : 279.75pt;
+	top             : 666.75pt;
+	width           :  79.50pt;
+	height          :  19.50pt;
+	}
+span#e5             { /* images/11c001005.gif */
+	background      : transparent url(images/11c001005.gif) no-repeat top left;
+	position        : absolute;
+	left            : 391.50pt;
+	top             : 675.75pt;
+	width           : 206.25pt;
+	height          :   0.75pt;
+	}
+img#e14             { /* images/11c001011.gif */
+	position        : absolute;
+	left            : 537.75pt;
+	top             : 676.50pt;
+	width           :  12.00pt;
+	height          :  12.00pt;
+	}
+img#e13             { /* images/11c001010.gif */
+	position        : absolute;
+	left            : 555.00pt;
+	top             : 676.50pt;
+	width           :  12.00pt;
+	height          :  12.00pt;
+	}
+img#e12             { /* images/11c001009.gif */
+	position        : absolute;
+	left            : 578.25pt;
+	top             : 676.50pt;
+	width           :  12.00pt;
+	height          :  12.00pt;
+	}
+div#e26             { /* - Cómo Extraer Canciones... */
+	position        : absolute;
+	left            : 393.75pt;
+	top             : 677.25pt;
+	width           : 144.75pt;
+	height          :  12.00pt;
+	}
+span#e4             { /* images/11c001004.gif */
+	background      : transparent url(images/11c001004.gif) no-repeat top left;
+	position        : absolute;
+	left            : 391.50pt;
+	top             : 689.25pt;
+	width           : 207.00pt;
+	height          :   0.75pt;
+	}
+img#e28             { /* images/11c001018.gif */
+	position        : absolute;
+	left            : 268.50pt;
+	top             : 690.00pt;
+	width           :  12.00pt;
+	height          :  12.00pt;
+	}
+div#e29             { /* - Instalando su equipo */
+	position        : absolute;
+	left            : 393.75pt;
+	top             : 690.00pt;
+	width           :  81.75pt;
+	height          :  12.00pt;
+	}
+div#e31             { /* - Manual del Usuario */
+	position        : absolute;
+	left            : 280.50pt;
+	top             : 691.50pt;
+	width           :  81.75pt;
+	height          :  12.75pt;
+	}
+span#e3             { /* images/11c001003.gif */
+	background      : transparent url(images/11c001003.gif) no-repeat top left;
+	position        : absolute;
+	left            : 391.50pt;
+	top             : 702.75pt;
+	width           : 207.00pt;
+	height          :   0.75pt;
+	}
+div#e25             { /* - Copiar Archivos MP3 a ... */
+	position        : absolute;
+	left            : 393.75pt;
+	top             : 703.50pt;
+	width           : 143.25pt;
+	height          :  12.00pt;
+	}
+img#e27             { /* images/11c001017.gif */
+	position        : absolute;
+	left            : 268.50pt;
+	top             : 705.00pt;
+	width           :  12.00pt;
+	height          :  12.00pt;
+	}
+div#e30             { /* - Folleto Comercial */
+	position        : absolute;
+	left            : 280.50pt;
+	top             : 706.50pt;
+	width           :  81.75pt;
+	height          :  12.00pt;
+	}
+span#e2             { /* images/11c001002.gif */
+	background      : transparent url(images/11c001002.gif) no-repeat top left;
+	position        : absolute;
+	left            : 391.50pt;
+	top             : 716.25pt;
+	width           : 207.00pt;
+	height          :   0.75pt;
+	}
+div#e24             { /* - Cómo Cambiar Tono o El... */
+	position        : absolute;
+	left            : 393.75pt;
+	top             : 717.75pt;
+	width           : 132.00pt;
+	height          :  12.00pt;
+	}
+img#e15             { /* images/11c001012.gif */
+	position        : absolute;
+	left            : 268.50pt;
+	top             : 719.25pt;
+	width           :  12.00pt;
+	height          :  12.00pt;
+	}
+div#e22             { /* - Presentación (Power Po... */
+	position        : absolute;
+	left            : 281.25pt;
+	top             : 720.00pt;
+	width           : 107.25pt;
+	height          :  11.25pt;
+	}
+span#e1             { /* images/11c001001.gif */
+	background      : transparent url(images/11c001001.gif) no-repeat top left;
+	position        : absolute;
+	left            : 391.50pt;
+	top             : 730.50pt;
+	width           : 207.00pt;
+	height          :   0.75pt;
+	}
+div#e23             { /* - Cómo grabar sus reprod... */
+	position        : absolute;
+	left            : 393.75pt;
+	top             : 732.00pt;
+	width           : 138.75pt;
+	height          :  12.00pt;
+	}
+div#e18             { /* - Preguntas Frecuentes (... */
+	position        : absolute;
+	left            : 280.50pt;
+	top             : 733.50pt;
+	width           : 114.00pt;
+	height          :  12.00pt;
+	}
+span#e17            { /* images/11c001014.gif */
+	background      : transparent url(images/11c001014.gif) no-repeat top left;
+	position        : absolute;
+	left            : 268.50pt;
+	top             : 734.25pt;
+	width           :   9.00pt;
+	height          :   9.00pt;
+	}
+span#e46            { /* images/11c001024.gif */
+	background      : transparent url(images/11c001024.gif) no-repeat top left;
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 747.00pt;
+	width           : 569.25pt;
+	height          :   0.75pt;
+	}
+div#e45             { /* Descripción de Funciones */
+	position        : absolute;
+	left            :  27.75pt;
+	top             : 756.75pt;
+	width           : 173.25pt;
+	height          :  19.50pt;
+	}
+div#e32             { /* »\ \\ \»\ \\ \\ \\ */
+	position        : absolute;
+	left            :  27.75pt;
+	top             : 779.25pt;
+	width           :  15.00pt;
+	height          : 542.25pt;
+	}
+div#e33             { /* Convierta su televisión ... */
+	position        : absolute;
+	left            :  42.75pt;
+	top             : 780.75pt;
+	width           : 533.25pt;
+	height          : 602.25pt;
+	}
+span#e84            { /* images/11c001038.gif */
+	background      : transparent url(images/11c001038.gif) no-repeat top left;
+	position        : absolute;
+	left            :  27.75pt;
+	top             :1388.25pt;
+	width           : 557.25pt;
+	height          :  15.00pt;
+	}
+div#e83             { /* <DIV>©2011-2013 Audio &a... */
+	position        : absolute;
+	left            :  75.75pt;
+	top             :1414.50pt;
+	width           : 465.75pt;
+	height          :  80.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 600.00pt;
+	height          :1500.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : auto;
+	}
+
+
+
+/*--- EndOfFile ---*/

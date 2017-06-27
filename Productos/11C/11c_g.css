@@ -1,0 +1,324 @@
+/*--- Avanquest WebEasy Document Style ---*/
+
+*                   { /* All Elements */
+	margin          : 0px;
+	padding         : 0px;
+	}
+a:link              { /* Document Style */
+	color           : #1f0b0a;
+	text-decoration :none;
+	}
+a:visited           { /* Document Style */
+	color           : #304b8f;
+	text-decoration :none;
+	}
+a:hover             { /* Document Style */
+	color           : #304b8f;
+	text-align      : left;
+	text-decoration :none;
+	}
+a:active            { /* Active Links */
+	color           : #FF0000;
+	}
+ol,ul               { /* All Lists */
+	margin          : 1em;
+	padding-left    : 2em;
+	}
+p                   { /* All Paragraphs */
+	margin-bottom   : 1em;
+	}
+p a                 {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+a.navigation:link   {
+	color           : #000000;
+	text-decoration :none;
+	}
+a.navigation:visited{
+	color           : #272727;
+	text-decoration :none;
+	}
+a.navigation:hover  {
+	color           : #304b8f;
+	text-decoration :none;
+	}
+a.panel:link        {
+	color           : #000000;
+	text-decoration :none;
+	}
+a.panel:visited     {
+	color           : #242424;
+	text-decoration :none;
+	}
+a.panel:hover       {
+	color           : #304b8f;
+	font            : bold 11pt 'Arial', Helvetica, sans-serif;
+	text-decoration : underline;
+	text-decoration :none;
+	}
+table.ct02          { /* Document Style */
+	background-color: #ffffff;
+	border          :   0.75pt solid #000000;
+	border-spacing  : 0px;
+	table-layout    : auto;
+	empty-cells     : show;
+	}
+table.ct02 td       { /* Document Style */
+	color           : #000000;
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	border          :   0.75pt solid #000000;
+	padding         :   1.50pt;
+	white-space     : nowrap;
+	vertical-align  : middle;
+	}
+table.ct02 .ch02 th { /* Document Style */
+	color           : #000000;
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	background-color: #ffffff;
+	text-align      : left;
+	border          :   0.75pt solid #000000;
+	padding         :   1.50pt;
+	white-space     : nowrap;
+	vertical-align  : middle;
+	}
+table.ct07          { /* Document Style */
+	background-color: #8ba9b5;
+	text-align      : center;
+	border          :   0.75pt solid #36403f;
+	}
+table.ct07 caption  { /* Document Style */
+	color           : #ffffff;
+	font            : bold 8pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+table.ct07 td       { /* Document Style */
+	color           : #006600;
+	font            : 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	text-align      : right;
+	border          :   0.75pt solid #36403f;
+	padding         :   1.50pt;
+	white-space     : nowrap;
+	vertical-align  : middle;
+	}
+table.ct07 th       { /* Document Style */
+	color           : #fdfdfd;
+	font            : bold 8pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	background-color: #236e85;
+	text-align      : left;
+	border          :   0.75pt solid #331a00;
+	padding         :   1.50pt;
+	white-space     : nowrap;
+	vertical-align  : middle;
+	}
+table.ct07 .ch07 th { /* Document Style */
+	color           : #fdfdfd;
+	font            : bold 8pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	background-color: #8a9d92;
+	text-align      : left;
+	border          :   0.75pt solid #374140;
+	padding         :   1.50pt;
+	white-space     : nowrap;
+	vertical-align  : middle;
+	}
+.address,address    {
+	color           : #000000;
+	font            : 9pt 'Arial', Helvetica, sans-serif;
+	}
+.citation,cite      {
+	color           : #ffffff;
+	}
+.code,code          {
+	color           : #000000;
+	}
+.deco               {
+	color           : #000000;
+	background-color: #000000;
+	}
+.emphasis,em        {
+	color           : #ffffff;
+	}
+.footer             {
+	color           : #808080;
+	font            : 8pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	text-align      : center;
+	}
+.footer_box         {
+	color           : #fdfdfd;
+	background-color: #fdfdfd;
+	}
+.form_button        {
+	color           : #6b3200;
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	border          :   1.50pt inset #000000;
+	}
+.form_input         {
+	color           : #ffffff;
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	border          :   1.50pt inset #592a00;
+	}
+.form_label         {
+	color           : #5b5b5b;
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	}
+.form_legend        {
+	color           : #009900;
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	}
+.form_set           {
+	}
+.header             {
+	color           : #fafafa;
+	font            : bold 18pt 'Arial', Helvetica, sans-serif;
+	}
+.header_box         {
+	color           : #331a00;
+	background-color: #331a00;
+	}
+.heading1,h1        {
+	color           : #808080;
+	font            : 24pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.heading2,h2        {
+	color           : #808080;
+	font            : 20pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.heading3,h3        {
+	color           : #e0e0e0;
+	font            : 18pt 'Arial', Helvetica, sans-serif;
+	}
+.heading4,h4        {
+	color           : #fafafa;
+	font            : 16pt 'Arial', Helvetica, sans-serif;
+	}
+.heading5,h5        {
+	color           : #000000;
+	font            : bold 10pt 'Arial', Helvetica, sans-serif;
+	}
+.heading6,h6        {
+	color           : #ffffff;
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	}
+.info               {
+	color           : #331a00;
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	}
+.info_box           {
+	color           : #ffffff;
+	}
+.info_tag           {
+	color           : #5ee600;
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	}
+.item               {
+	color           : #000000;
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	}
+.item a             {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+.item_box           {
+	color           : #808080;
+	background-color: #808080;
+	border          :   0.75pt solid #bfbfbf;
+	}
+.item_tag           {
+	color           : #000000;
+	font            : bold 10pt 'Trebuchet MS', 'Lucida Grande', Arial, sans-serif;
+	}
+.logo               {
+	color           : #ffffff;
+	font            : bold 8pt 'Arial', Helvetica, sans-serif;
+	background-color: #331a00;
+	text-align      : center;
+	}
+.logo_box           {
+	color           : #009900;
+	}
+.logo_tag           {
+	color           : #009900;
+	}
+.navigation         {
+	font            : bold 9pt 'Arial', Helvetica, sans-serif;
+	text-align      : center;
+	}
+.navigation a       {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+.navigation_box     {
+	color           : #e5e5e5;
+	background-color: #e5e5e5;
+	}
+.navigation_tag     {
+	color           : #ffffff;
+	}
+.news               {
+	color           : #4c3d68;
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	text-decoration : underline;
+	}
+.news_box           {
+	color           : #7297a4;
+	background-color: #7297a4;
+	}
+.news_tag           {
+	color           : #ffffff;
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	}
+.page               {
+	color           : #000000;
+	background-color: #f2f2f2;
+	border          :   0.75pt solid #000000;
+	}
+.page a             {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+.page_box           {
+	color           : #cacaca;
+	background-color: #cacaca;
+	}
+.page_tag           {
+	color           : #000000;
+	font            : bold 18pt 'Arial', Helvetica, sans-serif;
+	}
+.page_tag a         {
+	background-color: transparent;
+	border          : 0px;
+	padding         : 0px;
+	}
+.panel              {
+	color           : #000000;
+	font            : bold 11pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	}
+.panel_box          {
+	color           : #3b3b3b;
+	background-color: #3b3b3b;
+	}
+.photo              {
+	color           : #31375d;
+	font            : 9pt 'Arial', Helvetica, sans-serif;
+	}
+.photo_box          {
+	color           : #c0c0c0;
+	background-color: #c0c0c0;
+	}
+.photo_tag          {
+	color           : #006600;
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	}
+.small,small        {
+	color           : #331a00;
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	text-decoration : underline;
+	}
+
+
+/*--- EndOfFile ---*/

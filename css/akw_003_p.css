@@ -1,0 +1,391 @@
+.cc26               { /* Common */
+	border          :   0.00pt solid #000000;
+	}
+.cc27               { /* Common */
+	font            : 14pt 'Arial Rounded MT Bold', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
+.cc28               { /* Common */
+	font            : 9pt 'Arial Rounded MT Bold', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
+.cc29               { /* Common */
+	font            : 8pt 'MS Sans Serif';
+	color           : #000000;
+	padding         :   1.50pt;
+	}
+.cc30               { /* Common */
+	clip            : rect(0.00pt,45.00pt,15.00pt,0.00pt);
+	}
+.cc31               { /* Common */
+	font            : 9pt 'Arial', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
+.cc32               { /* Common */
+	clip            : rect(0.00pt,53.25pt,17.25pt,0.00pt);
+	}
+.cc33               { /* Common */
+	clip            : rect(0.00pt,91.50pt,17.25pt,0.00pt);
+	}
+.cc34               { /* Common */
+	border          :   0.00pt solid #f0f0f0;
+	}
+.cc35               { /* Common */
+	font            : 11pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc36               { /* Common */
+	border          :   0.00pt solid #000000;
+	clip            : rect(0.00pt,557.25pt,15.00pt,0.00pt);
+	}
+.cc37               { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+span#e41            { /* ../images/akw003007.gif */
+	background      : transparent url(../images/akw003007.gif) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :   0.00pt;
+	width           : 600.00pt;
+	height          :  39.75pt;
+	}
+div#e7              { /* Audio & Karaoke World */
+	position        : absolute;
+	left            :   3.00pt;
+	top             :   3.75pt;
+	width           : 178.50pt;
+	height          :  17.25pt;
+	}
+div#e6              { /* Contáctenos: +52 (818) 3... */
+	position        : absolute;
+	left            : 440.25pt;
+	top             :   4.50pt;
+	width           : 153.00pt;
+	height          :  12.75pt;
+	}
+span#e8             { /* ../images/b02bb.gif */
+	background      : transparent url(../images/b02bb.gif) no-repeat top left;
+	position        : absolute;
+	left            : 573.75pt;
+	top             :  19.50pt;
+	width           :  18.00pt;
+	height          :  18.00pt;
+	}
+input#e9            { /* Text text_box  */
+	position        : absolute;
+	left            : 443.25pt;
+	top             :  20.25pt;
+	width           : 122.25pt;
+	height          :  10.50pt;
+	}
+span#e10            { /* ../images/btnlogin.gif */
+	background      : transparent url(../images/btnlogin.gif) no-repeat top left;
+	position        : absolute;
+	left            : 386.25pt;
+	top             :  20.25pt;
+	width           :  45.00pt;
+	height          :  15.00pt;
+	}
+div#e1              { /* . . .&nbsp;&nbsp; u n&nb... */
+	position        : absolute;
+	left            :   7.50pt;
+	top             :  24.75pt;
+	width           : 170.25pt;
+	height          :  15.00pt;
+	}
+span#e11            { /* ../images/akw001006.jpg */
+	background      : transparent url(../images/akw001006.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             :  39.75pt;
+	width           : 599.25pt;
+	height          : 150.75pt;
+	}
+div#e40             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            :   0.00pt;
+	top             : 189.00pt;
+	width           : 124.50pt;
+	height          :1311.00pt;
+	}
+div#e39             {
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	text-align      : left;
+	position        : absolute;
+	left            : 124.50pt;
+	top             : 189.00pt;
+	width           : 475.50pt;
+	height          :1311.00pt;
+	}
+span#e38            { /* ../images/buttp_n.gif */
+	background      : transparent url(../images/buttp_n.gif) no-repeat top left;
+	position        : absolute;
+	left            : 362.25pt;
+	top             : 206.25pt;
+	width           :  53.25pt;
+	height          :  17.25pt;
+	}
+span#e36            { /* ../images/buttp_n.gif */
+	background      : transparent url(../images/buttp_n.gif) no-repeat top left;
+	position        : absolute;
+	left            : 421.50pt;
+	top             : 206.25pt;
+	width           :  53.25pt;
+	height          :  17.25pt;
+	}
+span#e34            { /* ../images/buttp_b.gif */
+	background      : transparent url(../images/buttp_b.gif) no-repeat top left;
+	position        : absolute;
+	left            : 480.75pt;
+	top             : 206.25pt;
+	width           :  53.25pt;
+	height          :  17.25pt;
+	}
+span#e32            { /* ../images/buttp_n.gif */
+	background      : transparent url(../images/buttp_n.gif) no-repeat top left;
+	position        : absolute;
+	left            : 540.00pt;
+	top             : 206.25pt;
+	width           :  53.25pt;
+	height          :  17.25pt;
+	}
+div#e37             { /* Inicio */
+	color           : #000000;
+	position        : absolute;
+	left            : 362.25pt;
+	top             : 210.75pt;
+	width           :  53.25pt;
+	height          :  13.50pt;
+	}
+div#e35             { /* Productos */
+	color           : #000000;
+	position        : absolute;
+	left            : 421.50pt;
+	top             : 210.75pt;
+	width           :  53.25pt;
+	height          :  13.50pt;
+	}
+div#e33             { /* Servicios */
+	color           : #000000;
+	position        : absolute;
+	left            : 480.75pt;
+	top             : 210.75pt;
+	width           :  53.25pt;
+	height          :  13.50pt;
+	}
+div#e31             { /* Contacto */
+	color           : #000000;
+	position        : absolute;
+	left            : 540.00pt;
+	top             : 210.75pt;
+	width           :  53.25pt;
+	height          :  13.50pt;
+	}
+span#e30            { /* ../images/butlf_n.gif */
+	background      : transparent url(../images/butlf_n.gif) no-repeat top left;
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 231.00pt;
+	width           :  91.50pt;
+	height          :  17.25pt;
+	}
+div#e29             { /* Servicios */
+	padding-top     :   0.75pt;
+	position        : absolute;
+	left            :  28.50pt;
+	top             : 231.00pt;
+	width           :  75.75pt;
+	height          :  15.00pt;
+	}
+h4#e21              { /* Servicios */
+	text-align      : left;
+	position        : absolute;
+	left            : 155.25pt;
+	top             : 242.25pt;
+	width           : 422.25pt;
+	height          :  24.75pt;
+	}
+span#e28            { /* ../images/butlf_b.gif */
+	background      : transparent url(../images/butlf_b.gif) no-repeat top left;
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 253.50pt;
+	width           :  91.50pt;
+	height          :  17.25pt;
+	}
+div#e27             { /* Renta */
+	padding-top     :   0.75pt;
+	position        : absolute;
+	left            :  28.50pt;
+	top             : 253.50pt;
+	width           :  75.75pt;
+	height          :  15.00pt;
+	}
+span#e22            { /* ../images/akw003006.gif */
+	border          :   0.00pt solid #000000;
+	clip            : rect(0.00pt,421.50pt,0.75pt,0.00pt);
+	background      : transparent url(../images/akw003006.gif) no-repeat top left;
+	position        : absolute;
+	left            : 153.00pt;
+	top             : 273.00pt;
+	width           : 421.50pt;
+	height          :   0.75pt;
+	}
+span#e26            { /* ../images/butlf_b.gif */
+	background      : transparent url(../images/butlf_b.gif) no-repeat top left;
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 276.00pt;
+	width           :  91.50pt;
+	height          :  17.25pt;
+	}
+div#e25             { /* Programación */
+	padding-top     :   1.50pt;
+	position        : absolute;
+	left            :  28.50pt;
+	top             : 276.00pt;
+	width           :  75.75pt;
+	height          :  15.75pt;
+	}
+span#e2             { /* ../images/akw003001.jpg */
+	background      : transparent url(../images/akw003001.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 422.25pt;
+	top             : 277.50pt;
+	width           : 152.25pt;
+	height          : 106.50pt;
+	}
+div#e3              { /* <DIV>Audio &amp; Karaoke... */
+	position        : absolute;
+	left            : 159.00pt;
+	top             : 287.25pt;
+	width           : 259.50pt;
+	height          : 111.00pt;
+	}
+span#e24            { /* ../images/butlf_b.gif */
+	background      : transparent url(../images/butlf_b.gif) no-repeat top left;
+	position        : absolute;
+	left            :  14.25pt;
+	top             : 298.50pt;
+	width           :  91.50pt;
+	height          :  17.25pt;
+	}
+div#e23             { /* Eventos */
+	padding-top     :   0.75pt;
+	position        : absolute;
+	left            :  28.50pt;
+	top             : 298.50pt;
+	width           :  75.75pt;
+	height          :  15.00pt;
+	}
+h5#e19              { /* Renta de Equipo */
+	text-align      : left;
+	position        : absolute;
+	left            : 157.50pt;
+	top             : 407.25pt;
+	width           : 422.25pt;
+	height          :  15.75pt;
+	}
+span#e20            { /* ../images/akw003005.gif */
+	border          :   0.00pt solid #000000;
+	clip            : rect(0.00pt,421.50pt,0.75pt,0.00pt);
+	background      : transparent url(../images/akw003005.gif) no-repeat top left;
+	position        : absolute;
+	left            : 153.00pt;
+	top             : 425.25pt;
+	width           : 421.50pt;
+	height          :   0.75pt;
+	}
+div#e18             { /* Mas adelante ofreceremos... */
+	text-align      : left;
+	position        : absolute;
+	left            : 157.50pt;
+	top             : 432.75pt;
+	width           : 282.75pt;
+	height          :  27.75pt;
+	}
+h5#e16              { /* Programación */
+	text-align      : left;
+	position        : absolute;
+	left            : 157.50pt;
+	top             : 513.75pt;
+	width           : 422.25pt;
+	height          :  15.75pt;
+	}
+span#e17            { /* ../images/akw003004.gif */
+	border          :   0.00pt solid #000000;
+	clip            : rect(0.00pt,421.50pt,0.75pt,0.00pt);
+	background      : transparent url(../images/akw003004.gif) no-repeat top left;
+	position        : absolute;
+	left            : 153.00pt;
+	top             : 532.50pt;
+	width           : 421.50pt;
+	height          :   0.75pt;
+	}
+div#e15             { /* Mas adelante ofreceremos... */
+	text-align      : left;
+	position        : absolute;
+	left            : 157.50pt;
+	top             : 542.25pt;
+	width           : 255.00pt;
+	height          :  27.75pt;
+	}
+h5#e13              { /* Eventos */
+	text-align      : left;
+	position        : absolute;
+	left            : 157.50pt;
+	top             : 674.25pt;
+	width           : 422.25pt;
+	height          :  15.75pt;
+	}
+span#e14            { /* ../images/akw003003.gif */
+	border          :   0.00pt solid #000000;
+	clip            : rect(0.00pt,421.50pt,0.75pt,0.00pt);
+	background      : transparent url(../images/akw003003.gif) no-repeat top left;
+	position        : absolute;
+	left            : 153.00pt;
+	top             : 691.50pt;
+	width           : 421.50pt;
+	height          :   0.75pt;
+	}
+div#e12             { /* Audio & Karaoke World pl... */
+	text-align      : left;
+	position        : absolute;
+	left            : 157.50pt;
+	top             : 702.75pt;
+	width           : 421.50pt;
+	height          :  27.75pt;
+	}
+span#e5             { /* ../images/akw003002.jpg */
+	background      : transparent url(../images/akw003002.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  27.75pt;
+	top             :1283.25pt;
+	width           : 557.25pt;
+	height          :  15.00pt;
+	}
+div#e4              { /* <DIV>©2011-2013 Audio &a... */
+	position        : absolute;
+	left            :  75.75pt;
+	top             :1309.50pt;
+	width           : 465.75pt;
+	height          :  80.25pt;
+	}
+div#page            { /* Page Holder */
+	position        : relative;
+	width           : 600.00pt;
+	height          :1500.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #f2f2f2;
+	text-align      : center;
+	overflow        : auto;
+	}
+

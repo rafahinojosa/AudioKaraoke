@@ -66,12 +66,29 @@ div#asdf             { /* Audio & Karaoke World */
 	height          :  17.25pt;
 	}	
 
-div#e11             { /* Contáctenos: +52 (818) 3... */
+span#e60             { /* Usuario */
+	text-align		: right;
+	position        : absolute;
+	left            : 280.25pt;
+	top             : 24.50pt;
+	width           : 153.00pt;
+	height          :  12.75pt;
+	}
+	
+div#e11             { /* Contáctenos: +52 (818) ... */
 	position        : absolute;
 	left            : 440.25pt;
 	top             :   4.50pt;
 	width           : 153.00pt;
 	height          :  12.75pt;
+	}
+span#e80            { /* ../images/logout_button.png */
+	background      : transparent url(../images/logout_button.png) no-repeat top left;
+	position        : absolute;
+	left            : 416.25pt;
+	top             :  10.25pt;
+	width           :  100.00pt;
+	height          :  100.00pt;
 	}
 span#e13            { /* ../images/b02bb.gif */
 	background      : transparent url(../images/b02bb.gif) no-repeat top left;

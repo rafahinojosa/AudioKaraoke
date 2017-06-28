@@ -1,4 +1,7 @@
-
+.cc03               { /* Common */
+	font            : 9pt 'Arial Rounded MT Bold', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
 .cc13               { /* Common */
 	border          :   0.00pt solid #000000;
 	}
@@ -65,7 +68,7 @@ div#e46             { /* Audio & Karaoke World */
 	width           : 178.50pt;
 	height          :  17.25pt;
 	}
-div#e45             { /* Contáctenos: +52 (818) 3... */
+div#e45             { /* Contáctenos: +52 (818) */
 	position        : absolute;
 	left            : 440.25pt;
 	top             :   4.50pt;
@@ -86,7 +89,7 @@ input#e48           { /* Text text_box  */
 	top             :  20.25pt;
 	width           : 121.50pt;
 	}
-span#e49            { /* ../images/btnlogin.gif */
+span#e15            { /* ../images/btnlogin.gif */
 	background      : transparent url(../images/btnlogin.gif) no-repeat top left;
 	position        : absolute;
 	left            : 386.25pt;
@@ -205,13 +208,13 @@ div#e67             { /* Contacto */
 	width           :  53.25pt;
 	height          :  13.50pt;
 	}
-h4#e60              { /* Productos */
-	text-align      : left;
+span#e60             { /* Sesion */
+	text-align		: right;
 	position        : absolute;
-	left            : 155.25pt;
-	top             : 231.00pt;
-	width           : 422.25pt;
-	height          :  24.75pt;
+	left            : 280.25pt;
+	top             : 24.50pt;
+	width           : 153.00pt;
+	height          :  12.75pt;
 	}
 div#e64             { /* Equipos Karaoke */
 	font            : 10pt 'Arial Rounded MT Bold', Helvetica, sans-serif;
@@ -610,7 +613,7 @@ div#e5              { /* Teclado Remoto Mod. RK-0... */
 	width           : 141.00pt;
 	height          :  36.00pt;
 	}
-div#e15             { /* Tripies\ \Hi-Mikser Mod.... */
+div#e49             { /* Tripies\ \Hi-Mikser Mod.... */
 	text-align      : right;
 	position        : absolute;
 	left            : 320.25pt;

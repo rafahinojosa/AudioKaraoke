@@ -1,3 +1,7 @@
+.cc03               { /* Common */
+	font            : 9pt 'Arial Rounded MT Bold', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
 .cc26               { /* Common */
 	border          :   0.00pt solid #000000;
 	}
@@ -58,7 +62,16 @@ div#e7              { /* Audio & Karaoke World */
 	width           : 178.50pt;
 	height          :  17.25pt;
 	}
-div#e6              { /* Contáctenos: +52 (818) 3... */
+span#e60             { /* Usuario */
+	text-align		: right;
+	position        : absolute;
+	left            : 280.25pt;
+	top             : 24.50pt;
+	width           : 153.00pt;
+	height          :  12.75pt;
+	}	
+
+div#e6              { /* Contáctenos: +52 (818) */
 	position        : absolute;
 	left            : 440.25pt;
 	top             :   4.50pt;
@@ -80,7 +93,7 @@ input#e9            { /* Text text_box  */
 	width           : 122.25pt;
 	height          :  10.50pt;
 	}
-span#e10            { /* ../images/btnlogin.gif */
+span#e15            { /* ../images/btnlogin.gif */
 	background      : transparent url(../images/btnlogin.gif) no-repeat top left;
 	position        : absolute;
 	left            : 386.25pt;
@@ -326,7 +339,7 @@ span#e17            { /* ../images/akw003004.gif */
 	width           : 421.50pt;
 	height          :   0.75pt;
 	}
-div#e15             { /* Mas adelante ofreceremos... */
+div#e10             { /* Mas adelante ofreceremos... */
 	text-align      : left;
 	position        : absolute;
 	left            : 157.50pt;
